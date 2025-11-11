@@ -1,0 +1,2 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+:root{color-scheme:dark} body{@apply bg-bg text-slate-100} .container{@apply max-w-sm mx-auto} .card{@apply border border-line bg-card rounded-xl p-4 my-3 shadow-sm} .btn{@apply w-full py-3 rounded-lg font-semibold} .btn-primary{@apply bg-jade text-black} .btn-outline{@apply border border-jade/70 text-emerald-100}
