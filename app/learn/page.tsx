@@ -7,8 +7,8 @@ import ModalSheet from "@/components/ModalSheet";
 
 const categories = ["Beginner", "Pro", "Macro", "Crypto"];
 const journeys = [
-  { title: "Technical Analysis Basics", meta: "Lesson 3 • Candles & Momentum", progress: 65, action: "Resume" },
-  { title: "Smart Risk Playbook", meta: "Lesson 1 • Exposure planning", progress: 20, action: "Start" },
+  // { title: "Technical Analysis Basics", meta: "Lesson 3 • Candles & Momentum", progress: 65, action: "Resume" },
+  // { title: "Smart Risk Playbook", meta: "Lesson 1 • Exposure planning", progress: 20, action: "Start" },
 ];
 
 const boosters = [

@@ -1,4 +1,4 @@
-// File: /Users/ton/Downloads/fisg-next-ui-v2/app/learn/page.tsx
+// File: /Users/ton/Documents/GitHub/TestTradingApp/app/learn/page.tsx
 import * as entry from '../../../../app/learn/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
