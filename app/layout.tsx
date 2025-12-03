@@ -13,11 +13,11 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <div className="container px-6 pb-24">
-          <header className="flex items-center gap-8 py-6">
+          <header className="flex items-center gap-4 py-6">
             <Image
               src={Logo}
               alt="FISG logo"
-              className="h-11 w-11 rounded-lg"
+              className="h-10 w-12 rounded-lg"
               priority
             />
             <div className="leading-tight space-y-1">
